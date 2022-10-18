@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Madan kumar TK\\Desktop\\New folder\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\Madan kumar TK\\Desktop\\Ashok\\DemoRepo\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\Madan kumar TK\\Desktop\\New folder\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+      "projectPath": "C:\\Users\\Madan kumar TK\\Desktop\\Ashok\\DemoRepo\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
       "packagesPath": "C:\\Users\\Madan kumar TK\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Madan kumar TK\\Desktop\\New folder\\HelloWorld\\HelloWorld\\obj\\",
+      "outputPath": "C:\\Users\\Madan kumar TK\\Desktop\\Ashok\\DemoRepo\\HelloWorld\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Madan kumar TK\\AppData\\Roaming\\NuGet\\NuGet.Config",
